@@ -1,0 +1,12 @@
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\bin\Debug\net7.0\CuentaBancariaService.deps.json
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\bin\Debug\net7.0\CuentaBancariaService.dll
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\bin\Debug\net7.0\CuentaBancariaService.pdb
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.csproj.AssemblyReference.cache
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.AssemblyInfoInputs.cache
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.AssemblyInfo.cs
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.csproj.CoreCompileInputs.cache
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.dll
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\refint\CuentaBancariaService.dll
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\CuentaBancariaService.pdb
+C:\Users\gonza\repositorios\repositorio-remoto\CuentaBancaria\CuentaBancariaService\obj\Debug\net7.0\ref\CuentaBancariaService.dll
